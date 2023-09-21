@@ -57,7 +57,7 @@ body {
   margin-left: 1px;
 }
 .page-nav .page-nav__day .page-nav__day-week::after {
-  content: ',';
+  content: '';
 }
 .page-nav .page-nav__day .page-nav__day-number::before {
   content: ' ';
